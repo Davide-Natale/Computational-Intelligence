@@ -83,6 +83,7 @@ source my_env/bin/activate
 cd quixo
 pip install --upgrade pip
 pip install -r requirements.txt
+(or 'poetry install' if you prefer to use poetry)
 ```
 
 ## Test players
