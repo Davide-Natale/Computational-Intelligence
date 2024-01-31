@@ -78,7 +78,7 @@ This code has been tested on python 3.11.6.
 
 **First of all unzip the dictionary files contained in train_results folder**
 ```
-git clone https://github.com/TiloccaS/computational-intelligence-2023-24.git
+git clone https://github.com/Davide-Natale/Computational-Intelligence.git
 python3 -m venv my_env
 source my_env/bin/activate
 cd quixo
